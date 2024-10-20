@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useParams } from "react-router-dom";
 import products from "../scripts/products";
-import { CCarousel, CCarouselItem, CImage } from "@coreui/react"; // Assuming you're using CoreUI
+import { CCarousel, CCarouselItem, CImage } from "@coreui/react"; 
 import { faStar } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {motion} from "framer-motion"

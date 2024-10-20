@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "@coreui/coreui": "^5.1.2",
-    "@coreui/react": "^5.4.0",
-    "bootstrap": "^5.3.3"
-  }
-}
