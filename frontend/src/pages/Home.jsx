@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Intro from "../assets/NewIntro.mp4";
-import IntroPic from "../assets/Intropic1.jpg";
+import IntroPic from "../assets/IntroPic1.jpg";
 import factory from "../assets/denimFactory.jpg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowRight, faHeart } from "@fortawesome/free-solid-svg-icons";
