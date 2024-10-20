@@ -196,7 +196,7 @@ const Home = () => {
             />
           </div>
 
-          <div className="md:text-end text-center font-raleway font-semibold md:mr-9 md:mt-24 mt-10 text-xs md:text-base">
+          <div className="md:text-end text-center font-raleway font-semibold md:mr-9 md:mt-24 mt-9 text-xs md:text-base">
             <p>©2024 Dhiraj Jatav. All rights reserved</p>
           </div>
         </div>
