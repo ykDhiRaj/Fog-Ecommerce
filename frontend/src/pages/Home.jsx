@@ -29,17 +29,17 @@ const Home = () => {
       <div className=" h-screen w-full relative object-contain">
         <SnackbarProvider/>
         <div className="absolute top-5 md:p-10 p-5">
-          <h1 className=" md:text-[9rem] text-7xl text-[#292F30] text-opacity-80 tracking-wider ">
+          <h1 className=" md:text-[9rem] text-7xl text-[#292F30] text-opacity-80 tracking-wider font-raleway ">
             Elevate{" "}
           </h1>
         </div>
         <div className="absolute top-[30%] md:right-[40%] right-[30%]">
-          <h1 className=" md:text-[10rem] text-7xl text-yellow-100 text-opacity-80 tracking-wider ">
+          <h1 className=" md:text-[10rem] text-7xl text-yellow-100 text-opacity-80 tracking-wider font-raleway ">
             Your
           </h1>
         </div>
         <div className="absolute top-[60%] right-0 md:p-10 p-5">
-          <h1 className=" md:text-[10rem] text-7xl text-white text-opacity-60 tracking-wider ">
+          <h1 className=" md:text-[10rem] text-7xl text-white text-opacity-60 tracking-wider font-raleway ">
             {" "}
             Style
           </h1>
